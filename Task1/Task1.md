@@ -12,4 +12,4 @@
 
 ## Пример базовых конструкций языка
 
-[Скрипт с базовым синтаксисом: BasicSyntax.cs](/BasicSyntax.cs)
+[Скрипт с базовым синтаксисом: BasicSyntax.cs](/Task1/BasicSyntax.cs)
